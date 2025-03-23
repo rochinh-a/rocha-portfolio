@@ -72,7 +72,7 @@ export const experiences = [
 
 export const projects = [
   {
-    name: "Study",
+    name: "Study with Pytorch",
     description:
     "Classification Study with PyTorch and Visualization with Seaborn",
     tags: [
@@ -85,63 +85,52 @@ export const projects = [
     source_code_link: "https://github.com/rochinh-a/pytorch-seaborn-visualization",
   },
   {
-    name: "Terminal Like Portfolio Website",
+    name: "to fill",
     description:
-      "A terminal themed portfolio website that allows users to type into the terminal and use commands like a real terminal.",
+      "to fill",
     tags: [
       { name: "HTML", color: "blue-text-gradient" },
       { name: "css", color: "green-text-gradient" },
       { name: "Javascript", color: "pink-text-gradient" },
     ],
-    image: termpw,
-    source_code_link: "https://github.com/lohitkolluri/lohitkolluri.github.io",
+    image: ,
+    source_code_link: "to fill",
   },
   {
-    name: "Mental Health Fitness Tracker",
+    name: "to fill",
     description:
-      "ML model that utilizes regression techniques to provide insights into mental health and make predictions based on the available data.",
+      "to fill",
     tags: [
-      { name: "Machine Learning", color: "blue-text-gradient" },
-      { name: "Jupyter Notebook", color: "green-text-gradient" },
-      { name: "Regression Algorithms", color: "pink-text-gradient" },
+      { name: "HTML", color: "blue-text-gradient" },
+      { name: "css", color: "green-text-gradient" },
+      { name: "Javascript", color: "pink-text-gradient" },
     ],
-    image: mhft,
-    source_code_link:
-      "https://github.com/lohitkolluri/mental_health_fitness_tracker",
+    image: ,
+    source_code_link: "to fill",
   },
   {
-    name: "PayloadMaster",
+    name: "to fill",
     description:
-      "Tool to automate payload creation using the Metasploit framework",
+      "to fill",
     tags: [
-      { name: "shell", color: "blue-text-gradient" },
+      { name: "HTML", color: "blue-text-gradient" },
+      { name: "css", color: "green-text-gradient" },
+      { name: "Javascript", color: "pink-text-gradient" },
     ],
-    image: payloadmaster,
-    source_code_link: "https://github.com/lohitkolluri/PayloadMaster",
+    image: ,
+    source_code_link: "to fill",
   },
   {
-    name: "CompileVortex",
+    name: "to fill",
     description:
-      "Tool to automate payload creation using the Metasploit framework",
+      "to fill",
     tags: [
-      { name: "Javascript", color: "blue-text-gradient" },
-      { name: "CSS", color: "green-text-gradient" },
-      { name: "HTML", color: "pink-text-gradient" },
+      { name: "HTML", color: "blue-text-gradient" },
+      { name: "css", color: "green-text-gradient" },
+      { name: "Javascript", color: "pink-text-gradient" },
     ],
-    image: CompileVortex,
-    source_code_link: "https://github.com/lohitkolluri/CompileVortex",
+    image: ,
+    source_code_link: "to fill",
   },
-  {
-    name: "Sketcher",
-    description:
-      "Convert an input image to a pencil sketch using OpenCV and Matplotlib libraries.",
-    tags: [
-      { name: "OpenCV", color: "blue-text-gradient" },
-      { name: "Matplotlib", color: "green-text-gradient" },
-      { name: "Python", color: "pink-text-gradient" },
-    ],
-
-    image: sketcher,
-    source_code_link: "https://github.com/lohitkolluri/Image_to_Pencil_Sketch_App",
-  },
+  
 ];
