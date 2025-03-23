@@ -1,6 +1,6 @@
 {
   "name": "Portfolio-Website",
-  "homepage":"https://rochinh-a.github.io/rocha-portfolio/",
+  "homepage": "https://rochinh-a.github.io/rocha-portfolio/",
   "private": false,
   "version": "0.0.0",
   "type": "module",
@@ -16,6 +16,7 @@
     "@emailjs/browser": "^3.11.0",
     "@react-three/drei": "^9.88.2",
     "@react-three/fiber": "^8.14.5",
+    "emailjs-com": "^3.2.0",
     "framer-motion": "^10.12.16",
     "maath": "^0.10.4",
     "react": "^18.2.0",
