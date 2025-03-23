@@ -122,7 +122,10 @@
   border-radius: 8px;
   outline: none;
   font-weight: 600;
-  placeholder-color: #999; /* Placeholder text color */
+  /* Adicionei a linha abaixo para corrigir a cor do placeholder */
+  ::placeholder {
+    color: #999; /* Placeholder text color */
+  }
 }
 
 .input-error {

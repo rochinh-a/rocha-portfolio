@@ -84,53 +84,5 @@ export const projects = [
     image: weatherpedia,
     source_code_link: "https://github.com/rochinh-a/pytorch-seaborn-visualization",
   },
-  {
-    name: "to fill",
-    description:
-      "to fill",
-    tags: [
-      { name: "HTML", color: "blue-text-gradient" },
-      { name: "css", color: "green-text-gradient" },
-      { name: "Javascript", color: "pink-text-gradient" },
-    ],
-    image: ,
-    source_code_link: "to fill",
-  },
-  {
-    name: "to fill",
-    description:
-      "to fill",
-    tags: [
-      { name: "HTML", color: "blue-text-gradient" },
-      { name: "css", color: "green-text-gradient" },
-      { name: "Javascript", color: "pink-text-gradient" },
-    ],
-    image: ,
-    source_code_link: "to fill",
-  },
-  {
-    name: "to fill",
-    description:
-      "to fill",
-    tags: [
-      { name: "HTML", color: "blue-text-gradient" },
-      { name: "css", color: "green-text-gradient" },
-      { name: "Javascript", color: "pink-text-gradient" },
-    ],
-    image: ,
-    source_code_link: "to fill",
-  },
-  {
-    name: "to fill",
-    description:
-      "to fill",
-    tags: [
-      { name: "HTML", color: "blue-text-gradient" },
-      { name: "css", color: "green-text-gradient" },
-      { name: "Javascript", color: "pink-text-gradient" },
-    ],
-    image: ,
-    source_code_link: "to fill",
-  },
   
 ];
