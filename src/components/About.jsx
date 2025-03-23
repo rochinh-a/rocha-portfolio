@@ -40,11 +40,11 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a Computer Science student at SRM University and multilingual speaker with a passion
-        for ethical hacking, artificial intelligence, and neural language processing. I am looking
-        to join a company that values innovation, collaboration, and continuous learning and am
-        confident that my enthusiasm and drive will help me succeed in any role that leverages my
-        passion for technology.
+        I am a Self tough developer with a passion for web development and data Analysis. I have
+        experience in building web applications using modern technologies like React, Node.js, and python.
+        I have also worked on data analysis projects using python and its libraries like pandas, numpy, and
+        matplotlib. I have a good understanding of machine learning and deep learning algorithms and have
+        worked on projects using libraries like scikit-learn, tensorflow.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
