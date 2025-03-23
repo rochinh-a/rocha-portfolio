@@ -3,11 +3,11 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Meu%20Portfólio&fontSize=80&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
-  <a href="#features">Funcionalidades</a> •
-  <a href="#demo">Demonstração</a> •
-  <a href="#screenshots">Capturas de Tela</a> •
-  <a href="#installation">Instalação</a> •
-  <a href="#tech-stack">Tecnologias</a>
+  <a href="#funcionalidades">Funcionalidades</a> •
+  <a href="#demonstração">Demonstração</a> •
+  <a href="#capturas-de-tela">Capturas de Tela</a> •
+  <a href="#instalação">Instalação</a> •
+  <a href="#tecnologias">Tecnologias</a>
 </p>
 
 [![GitHub license](https://img.shields.io/github/license/rochinh-a/rocha-portfolio?style=flat-square)](LICENSE)
@@ -41,41 +41,46 @@ mindmap
     Integrações
       Contato por Email
       Mostruário de Projetos
+```
 
 </div>
-🚀 Demonstração
-<Add demonstration links or GIFs here>
-📸 Capturas de Tela
-<Add screenshots here>
-🛠️ Instalação
-Clone o repositório:
-bash
-git clone https://github.com/rochinh-a/rocha-portfolio.git
-Navegue até o diretório do projeto:
-bash
-cd rocha-portfolio
-Instale as dependências:
-bash
-npm install
-Inicie o servidor de desenvolvimento:
-bash
-npm run dev
-🛠 Tecnologias
-React: A JavaScript library for building user interfaces.
-Vite: Next generation frontend tooling.
-Tailwind CSS: A utility-first CSS framework.
-🤝 Contribuição
-Sinta-se à vontade para contribuir! Siga as etapas abaixo:
 
-Faça um fork do projeto.
-Crie uma nova branch:
-bash
-git checkout -b feature/nome-da-sua-branch
-Faça suas alterações e commit:
-bash
-git commit -m 'Adicionei uma nova funcionalidade'
-Envie para a branch original:
-bash
-git push origin feature/nome-da-sua-branch
-Abra um Pull Request.
+## 🚀 Demonstração
 
+Você pode acessar a demonstração do portfólio [aqui](https://rochinh-a.github.io/rocha-portfolio/).
+
+## 🖼️ Capturas de Tela
+
+<!-- Adicione capturas de tela do seu projeto aqui -->
+
+## 🛠️ Instalação
+
+Siga os passos abaixo para rodar o projeto localmente:
+
+1. Clone o repositório:
+   ```sh
+   git clone https://github.com/rochinh-a/rocha-portfolio.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```sh
+   cd rocha-portfolio
+   ```
+3. Instale as dependências:
+   ```sh
+   npm install
+   ```
+4. Inicie o servidor de desenvolvimento:
+   ```sh
+   npm run dev
+   ```
+
+## 🧰 Tecnologias
+
+- **React** - Biblioteca JavaScript para construção de interfaces de usuário
+- **Vite** - Ferramenta de build rápida para projetos web modernos
+- **Tailwind CSS** - Framework de CSS utilitário para estilização rápida e eficiente
+- **EmailJS** - Serviço para envio de emails diretamente do JavaScript
+
+## 📄 Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
