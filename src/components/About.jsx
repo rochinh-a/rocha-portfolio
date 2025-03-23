@@ -41,10 +41,10 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         I am a Self tough developer with a passion for web development and data Analysis. I have
-        experience in building web applications using modern technologies like React, Node.js, and python.
-        I have also worked on data analysis projects using python and its libraries like pandas, numpy, and
-        matplotlib. I have a good understanding of machine learning and deep learning algorithms and have
-        worked on projects using libraries like scikit-learn, tensorflow.
+        experience in building web applications using modern technologies like React, Node.js, and Python.
+        I have also worked on data analysis projects using Python and its libraries like Pandas, NumPy, and
+        Matplotlib. I have a good understanding of machine learning and deep learning algorithms and have
+        worked on projects using libraries like scikit-learn, TensorFlow.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
