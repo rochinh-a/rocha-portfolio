@@ -44,7 +44,7 @@ const About = () => {
         experience in building web applications using modern technologies like React, Node.js, and Python.
         I have also worked on data analysis projects using Python and its libraries like Pandas, NumPy, and
         Matplotlib. I have a good understanding of machine learning and deep learning algorithms and have
-        worked on projects using libraries like scikit-learn, TensorFlow.
+        worked on projects using libraries like scikit-learn, PyTorch.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

@@ -72,17 +72,17 @@ export const experiences = [
 
 export const projects = [
   {
-    name: "WeatherPedia",
+    name: "Study",
     description:
-      "Web-based platform that allows users to access weather information for their location by entering it in the search field",
+    "Classification Study with PyTorch and Visualization with Seaborn",
     tags: [
-      { name: "Javascript", color: "blue-text-gradient" },
-      { name: "HTML", color: "green-text-gradient" },
-      { name: "bootstrap 5.3.0", color: "pink-text-gradient" },
-      { name: "Weather API by API Ninjas", color: "yellow-text-gradient" },
+      { name: "PyTorch", color: "blue-text-gradient" },
+      { name: "Seaborn", color: "green-text-gradient" },
+      { name: "Jupyter", color: "pink-text-gradient" },
+      { name: "Python", color: "yellow-text-gradient" },
     ],
     image: weatherpedia,
-    source_code_link: "https://github.com/lohitkolluri/WeatherPedia",
+    source_code_link: "https://github.com/rochinh-a/pytorch-seaborn-visualization",
   },
   {
     name: "Terminal Like Portfolio Website",
