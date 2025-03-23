@@ -2,13 +2,6 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Meu%20Portfólio&fontSize=80&animation=fadeIn&fontAlignY=35)
 
-<p align="center">
-  <a href="#funcionalidades">Funcionalidades</a> •
-  <a href="#demonstração">Demonstração</a> •
-  <a href="#capturas-de-tela">Capturas de Tela</a> •
-  <a href="#instalação">Instalação</a> •
-  <a href="#tecnologias">Tecnologias</a>
-</p>
 
 [![GitHub license](https://img.shields.io/github/license/rochinh-a/rocha-portfolio?style=flat-square)](LICENSE)
 [![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fmeuportfolio.vercel.app)](https://meuportfolio.vercel.app)
