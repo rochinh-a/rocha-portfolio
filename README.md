@@ -41,3 +41,41 @@ mindmap
     Integrações
       Contato por Email
       Mostruário de Projetos
+
+</div>
+🚀 Demonstração
+<Add demonstration links or GIFs here>
+📸 Capturas de Tela
+<Add screenshots here>
+🛠️ Instalação
+Clone o repositório:
+bash
+git clone https://github.com/rochinh-a/rocha-portfolio.git
+Navegue até o diretório do projeto:
+bash
+cd rocha-portfolio
+Instale as dependências:
+bash
+npm install
+Inicie o servidor de desenvolvimento:
+bash
+npm run dev
+🛠 Tecnologias
+React: A JavaScript library for building user interfaces.
+Vite: Next generation frontend tooling.
+Tailwind CSS: A utility-first CSS framework.
+🤝 Contribuição
+Sinta-se à vontade para contribuir! Siga as etapas abaixo:
+
+Faça um fork do projeto.
+Crie uma nova branch:
+bash
+git checkout -b feature/nome-da-sua-branch
+Faça suas alterações e commit:
+bash
+git commit -m 'Adicionei uma nova funcionalidade'
+Envie para a branch original:
+bash
+git push origin feature/nome-da-sua-branch
+Abra um Pull Request.
+
